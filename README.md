@@ -97,6 +97,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedance-1-0-pro-api-ja](https://github.com/v1atcoe-e3/seedance-1-0-pro-api-ja)
+- **Same model, other languages** — 9 more language builds: 中文 [seedance-1-0-pro-api-cn](https://github.com/rojas52cg58/seedance-1-0-pro-api-cn) · Deutsch [seedance-1-0-pro-api-de](https://github.com/rm7p0q7p2/seedance-1-0-pro-api-de) · Español [seedance-1-0-pro-api-es](https://github.com/gx-j9/seedance-1-0-pro-api-es) · Français `seedance-1-0-pro-api-fr` · Relay/gateway [seedance-1-0-pro-api-gateway](https://github.com/pdphag/seedance-1-0-pro-api-gateway) · Bahasa [seedance-1-0-pro-api-id](https://github.com/on3sbwi-p/seedance-1-0-pro-api-id) · 한국어 [seedance-1-0-pro-api-ko](https://github.com/mev2gjgjc1/seedance-1-0-pro-api-ko) · Português [seedance-1-0-pro-api-pt](https://github.com/zcolce4/seedance-1-0-pro-api-pt) · Русский [seedance-1-0-pro-api-ru](https://github.com/jd6ymi6bby8gzp/seedance-1-0-pro-api-ru)
+- **More models in this language** — [midjourney-api-ja](https://github.com/apimartt1q/midjourney-api-ja) · [gemini-2-5-flash-image-preview-api-ja](https://github.com/ic7skkh/gemini-2-5-flash-image-preview-api-ja) · [nano-banana-api-ja](https://github.com/e4ylndl3g-v/nano-banana-api-ja) · [gemini-3-1-flash-image-preview-api-ja](https://github.com/gv4ju/gemini-3-1-flash-image-preview-api-ja) · [nano-banana-2-api-ja](https://github.com/lpbxkrzbfel/nano-banana-2-api-ja) · [gemini-3-pro-image-preview-api-ja](https://github.com/zzsxs8r/gemini-3-pro-image-preview-api-ja)
+- **Topic hubs** — every build of this model, all languages: [seedance-1-0-pro](https://github.com/topics/seedance-1-0-pro) · [seedance-1-0-pro-api](https://github.com/topics/seedance-1-0-pro-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
